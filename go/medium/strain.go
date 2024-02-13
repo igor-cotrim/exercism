@@ -1,5 +1,5 @@
 // https://exercism.org/tracks/go/exercises/strain
-package easy
+package medium
 
 // You will need typed parameters (aka "Generics") to solve this exercise.
 // They are not part of the Exercism syllabus yet but you can learn about
