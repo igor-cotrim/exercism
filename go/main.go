@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Score:", easy.Score("A"))
+	fmt.Println("Score:", easy.Reverse("Hello, 世界"))
 }
